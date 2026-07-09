@@ -121,3 +121,9 @@ Os hooks do `pre-commit` executam automaticamente a cada `git commit`:
 - **check-yaml / check-toml** — valida sintaxe
 - **check-merge-conflict** — bloqueia conflitos não resolvidos
 - **check-added-large-files** — bloqueia arquivos > 10 MB
+
+---
+
+Eduardo Felizardo Cândido
+
+Senior QA Automation Engineer | AI-driven Testing | Robot Framework

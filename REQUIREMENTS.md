@@ -104,3 +104,9 @@ Lista completa de dependências diretas com versões instaladas e justificativas
 | Even Better TOML | `tamasfe.even-better-toml` | Suporte a `pyproject.toml` |
 | YAML | `redhat.vscode-yaml` | Validação de `.pre-commit-config.yaml` |
 | Docker | `ms-azuretools.vscode-docker` | Gerenciamento de containers |
+
+---
+
+Eduardo Felizardo Cândido
+
+Senior QA Automation Engineer | AI-driven Testing | Robot Framework

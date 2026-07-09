@@ -494,3 +494,9 @@ A stack foi escolhida para cobrir desde a exploração inicial de dados até o t
 ---
 
 *Documento gerado em 2026-07-09. Para atualizações de versões, consulte [REQUIREMENTS.md](REQUIREMENTS.md).*
+
+---
+
+Eduardo Felizardo Cândido
+
+Senior QA Automation Engineer | AI-driven Testing | Robot Framework

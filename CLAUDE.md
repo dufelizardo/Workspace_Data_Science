@@ -199,3 +199,9 @@ A estrutura gerada pelo scaffold já inclui:
 - [ ] Outputs de notebooks limpos antes de propor commit
 - [ ] `ruff check --fix .` passou sem erros
 - [ ] `uv run pytest` passou sem regressão
+
+---
+
+Eduardo Felizardo Cândido
+
+Senior QA Automation Engineer | AI-driven Testing | Robot Framework
