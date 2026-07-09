@@ -1,0 +1,14 @@
+[project]
+name = "NOME_PROJETO"
+version = "0.1.0"
+description = "Descrição do projeto"
+requires-python = ">=3.12"
+dependencies = []   # adicione deps específicas deste projeto aqui
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short --cov=src/NOME_PROJETO --cov-report=term-missing"
+
+[tool.coverage.run]
+source = ["src/NOME_PROJETO"]
+omit = ["tests/*"]

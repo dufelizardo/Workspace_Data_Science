@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# uv / venv
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Projetos individuais (conteúdo de projetos/ não é versionado)
+# A pasta projetos/ em si é rastreada via projetos/.gitkeep
+# Padrão [!.]* ignora apenas diretórios sem ponto, preservando projetos/.template/
+projetos/[!.]*/
+
+# Artefatos de dados e modelos fora de projetos/
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.feather
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Relatórios e cobertura
+htmlcov/
+.coverage
+coverage.xml
+*.lcov
+
+# Env
+.env
+*.env.local
+
+# VS Code
+.vscode/*.log
+
+# Sistema
+.DS_Store
+Thumbs.db

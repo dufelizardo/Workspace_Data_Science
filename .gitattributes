@@ -1,0 +1,18 @@
+# Forçar LF no repositório para todos os arquivos texto
+* text=auto eol=lf
+
+# Arquivos binários — sem conversão
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.tar binary
+*.whl binary
+*.pyc binary
+
+# Notebooks — tratar como texto com LF
+*.ipynb text eol=lf
